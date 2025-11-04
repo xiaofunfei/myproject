@@ -1,0 +1,229 @@
+2025-08-19 20:11:55,533 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:49622 has connected.
+
+2025-08-19 20:11:59,622 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:12:02,866 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:49622 has closed.
+
+2025-08-19 20:12:03,026 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:49632 has connected.
+
+2025-08-19 20:12:35,918 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:12:38,048 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:12:39,722 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:12:41,847 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:12:44,141 SOS [DEBUG] [src/GenerateToken.cpp:Perform:119] 请求失败:
+2025-08-19 20:24:58,378 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50770 has connected.
+
+2025-08-19 20:25:01,324 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:25:04,548 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50770 has closed.
+
+2025-08-19 20:25:04,690 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50778 has connected.
+
+2025-08-19 20:25:32,902 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:34,662 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:35,024 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:36,785 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:38,739 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:40,881 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:42,160 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:25:44,336 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:26:33,619 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50917 has connected.
+
+2025-08-19 20:26:37,494 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:26:39,700 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50917 has closed.
+
+2025-08-19 20:26:39,838 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50925 has connected.
+
+2025-08-19 20:27:09,532 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:50925 has closed.
+
+2025-08-19 20:27:49,089 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51031 has connected.
+
+2025-08-19 20:27:52,970 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:27:55,028 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51031 has closed.
+
+2025-08-19 20:27:55,165 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51037 has connected.
+
+2025-08-19 20:31:54,249 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51363 has connected.
+
+2025-08-19 20:31:56,609 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:31:59,346 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51363 has closed.
+
+2025-08-19 20:31:59,487 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51373 has connected.
+
+2025-08-19 20:34:36,695 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51593 has connected.
+
+2025-08-19 20:34:40,072 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:34:42,185 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51593 has closed.
+
+2025-08-19 20:34:42,323 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51600 has connected.
+
+2025-08-19 20:34:52,376 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:54,347 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:54,491 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:56,414 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:56,558 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:58,539 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:58,581 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:34:59,657 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:00,693 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:01,343 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:01,782 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:03,363 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:03,455 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:04,272 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:05,477 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:05,714 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:06,418 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:07,133 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:07,864 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:35:09,250 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:38:09,382 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51902 has connected.
+
+2025-08-19 20:38:12,317 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:38:14,280 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51902 has closed.
+
+2025-08-19 20:38:14,420 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51907 has connected.
+
+2025-08-19 20:39:09,096 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:51907 has closed.
+
+2025-08-19 20:40:21,254 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52095 has connected.
+
+2025-08-19 20:40:23,593 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:40:25,937 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52095 has closed.
+
+2025-08-19 20:40:26,075 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52099 has connected.
+
+2025-08-19 20:40:49,834 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52099 has closed.
+
+2025-08-19 20:40:49,834 SOS [DEBUG] [src/TurnCamera.cpp:fillValue:69] fillValue stringstream error
+
+2025-08-19 20:40:49,834 SOS [DEBUG] [src/TurnCamera.cpp:process:21] fillValue error
+
+2025-08-19 20:42:33,340 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52277 has connected.
+
+2025-08-19 20:42:36,953 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-19 20:42:38,775 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52277 has closed.
+
+2025-08-19 20:42:38,911 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52290 has connected.
+
+2025-08-19 20:42:58,137 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:00,256 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:09,942 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:11,877 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:12,065 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:13,987 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:18,146 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:20,258 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:27,874 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:29,755 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:29,985 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:31,871 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-19 20:43:38,230 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52290 has closed.
+
+2025-08-19 20:43:38,231 SOS [DEBUG] [src/TurnCamera.cpp:fillValue:69] fillValue stringstream error
+
+2025-08-19 20:43:38,231 SOS [DEBUG] [src/TurnCamera.cpp:process:21] fillValue error
+
+2025-08-20 13:34:37,213 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:59342 has connected.
+
+2025-08-20 13:34:44,321 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-20 13:34:49,924 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:59342 has closed.
+
+2025-08-20 13:34:50,055 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:59354 has connected.
+
+2025-08-20 13:35:01,574 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 13:35:03,685 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 13:35:30,069 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 13:35:32,214 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 14:27:29,326 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:63159 has connected.
+
+2025-08-20 14:27:40,780 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-20 14:27:45,720 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:63159 has closed.
+
+2025-08-20 14:27:45,876 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:63172 has connected.
+
+2025-08-20 14:28:12,132 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 14:28:14,252 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 14:28:26,376 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:63172 has closed.
+
+2025-08-20 14:28:26,376 SOS [DEBUG] [src/TurnCamera.cpp:fillValue:69] fillValue stringstream error
+
+2025-08-20 14:28:26,376 SOS [DEBUG] [src/TurnCamera.cpp:process:21] fillValue error
+
+2025-08-20 15:07:54,447 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:65524 has connected.
+
+2025-08-20 15:08:25,766 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:65524 has closed.
+
+2025-08-20 16:03:18,186 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52437 has connected.
+
+2025-08-20 16:03:26,390 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-20 16:03:31,705 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52437 has closed.
+
+2025-08-20 16:03:31,845 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52449 has connected.
+
+2025-08-20 16:04:28,235 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 16:04:30,404 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 16:04:31,261 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 16:04:33,373 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 16:06:52,395 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52449 has closed.
+
+2025-08-20 16:44:32,918 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:54856 has connected.
+
+2025-08-20 16:44:55,377 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-20 16:45:00,371 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:54856 has closed.
+
+2025-08-20 16:45:00,484 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:54876 has connected.
+
+2025-08-20 16:45:12,290 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:54876 has closed.
+
+2025-08-20 17:44:31,056 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:58528 has connected.
+
+2025-08-20 17:44:40,724 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-20 17:44:45,758 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:58528 has closed.
+
+2025-08-20 17:44:45,890 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:58537 has connected.
+
+2025-08-20 17:44:55,851 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:58537 has closed.
+
+2025-08-20 19:44:18,326 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:65504 has connected.
+
+2025-08-20 19:44:25,531 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:65504 has closed.
+
+2025-08-20 20:40:45,610 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52441 has connected.
+
+2025-08-20 20:41:27,108 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52441 has closed.
+
+2025-08-20 20:42:52,772 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52564 has connected.
+
+2025-08-20 20:44:38,707 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52564 has closed.
+
+2025-08-20 20:45:52,199 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:52718 has connected.
+
+2025-08-20 21:02:08,912 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:53670 has connected.
+
+2025-08-20 21:02:30,829 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:53670 has closed.
+
+2025-08-20 21:02:59,355 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:53739 has connected.
+
+2025-08-20 21:03:05,009 SOS [DEBUG] [src/UserService.cpp:process:53] setting: $1$WMts7q2U$
+
+2025-08-20 21:03:10,807 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onClose:154] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:53739 has closed.
+
+2025-08-20 21:03:10,955 SOS [INFO] [src/SmartHomeMonitorServer.cpp:onConnection:37] tcp tcp 192.168.253.130:8087 -> 192.168.253.1:53751 has connected.
+
+2025-08-20 21:03:50,455 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 21:03:52,086 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 21:03:52,571 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
+2025-08-20 21:03:54,202 SOS [INFO] [src/GenerateToken.cpp:Perform:111] 云台控制成功！
